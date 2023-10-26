@@ -4,9 +4,15 @@ This project contains Apex and JAVA code relevant to Salesforce Commerce CMS fun
 
 ## ⚠️ Disclaimers
 
-- This collection is provided as-is. It's not officially supported by Salesforce or covered by SLAs.
+- This code is provided as-is. It's not officially supported by Salesforce, its implemting partners or covered by SLAs.
 - API documentation is not provided with the collection. Please refer to the official documentation.
-- The documentation for the majority of the endpoints in this collection can be found in the [B2B and D2C Commerce Resources](https://developer.salesforce.com/docs/atlas.en-us.chatterapi.meta/chatterapi/connect_resources_commerce.htm) of the Connect REST API Developer Guide.
+- The documentation for the majority of the endpoints in this collection can be found in the [CMS Managed Content Resources](https://developer.salesforce.com/docs/atlas.en-us.chatterapi.meta/chatterapi/connect_resources_managed_content_resources.htm) of the Connect REST API Developer Guide. Per the documentation link mentioned above: 
+
+--If you have enhanced CMS workspaces, see [Enhanced CMS Workspaces Resources](https://developer.salesforce.com/docs/atlas.en-us.chatterapi.meta/chatterapi/connect_resources_managed_content_enhanced_resources.htm).
+
+## What this code is and isn't
+
+This code is intended to be used for B2B and D2C standalone setups. That isn't to say you can't use it with a Salesforce Org containing other commerce products or a happy path experience cloud site, just that B2B and D2C are what's targeted. This implementation supports non-Enhanced. An Enhanced CMS version will be added parallel to this respository later. 
 
 # CMS Tools QuickStart
 
