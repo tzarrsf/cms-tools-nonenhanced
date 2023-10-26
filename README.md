@@ -4,7 +4,7 @@ This project contains Apex and JAVA code relevant to Salesforce Commerce CMS fun
 
 ## ⚠️ Disclaimers
 
-- This code is provided as-is. It's not officially supported by Salesforce, its implemting partners or covered by SLAs.
+- This code is provided as-is. It's not officially supported by Salesforce, its implementing partners or covered by SLAs.
 - API documentation is not provided with the collection. Please refer to the official documentation.
 - The documentation for the majority of the endpoints in this collection can be found in the [CMS Managed Content Resources](https://developer.salesforce.com/docs/atlas.en-us.chatterapi.meta/chatterapi/connect_resources_managed_content_resources.htm) of the Connect REST API Developer Guide. Per the documentation link mentioned above: 
 
