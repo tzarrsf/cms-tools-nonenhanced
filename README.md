@@ -1,6 +1,12 @@
-## cms-tools-nonenhanced
+# cms-tools-nonenhanced
 
-This project contains Apex and JAVA code relevant to Salesforce Commerce CMS functionality. Special thanks to Kevin Kintzley for contributing this solution as part of the Code-It-Forward effort!
+This project contains Apex and JAVA code relevant to Salesforce Commerce CMS functionality. Special thanks to **Kevin Kintzley** for contributing this solution in the spirit of the Code-It-Forward effort!
+
+## ⚠️ Disclaimers
+
+- This collection is provided as-is. It's not officially supported by Salesforce or covered by SLAs.
+- API documentation is not provided with the collection. Please refer to the official documentation.
+- The documentation for the majority of the endpoints in this collection can be found in the [B2B and D2C Commerce Resources](https://developer.salesforce.com/docs/atlas.en-us.chatterapi.meta/chatterapi/connect_resources_commerce.htm) of the Connect REST API Developer Guide.
 
 # CMS Tools QuickStart
 
