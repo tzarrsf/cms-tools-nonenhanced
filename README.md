@@ -38,7 +38,7 @@ The java program has the following command arguments:
 - Now choose a project folder. Then type a Java project name, for example, CMS Tools
 
 #### Add Jars Files to the lib Directory
-- Go to [https://mvnrepository.com/](MVN Repository). Click on the latest release version.
+- Go to [MVN Repository](https://mvnrepository.com/). Click on the latest release version.
 - Click on the jar file to download.
 - Copy the file to project’s lib directory
 
@@ -46,15 +46,15 @@ The java program has the following command arguments:
 | ----------- | ----------- |
 | [Apache Commons CLI](https://mvnrepository.com/artifact/commons-cli/commons-cli) | [commons-cli-1.5.0.jar](https://repo1.maven.org/maven2/commons-cli/commons-cli/1.5.0/commons-cli-1.5.0.jar) |
 | [Apache Commons IO] | [https://repo1.maven.org/maven2/commons-io/commons-io/2.13.0/commons-io-2.13.0.jar][commons-io-2.13.0.jar](https://mvnrepository.com/artifact/commons-io/commons-io) |
-| [Apache Commons Collections][https://mvnrepository.com/artifact/org.apache.commons/commons-collections4] | (commons-collections4-4.4.jar)[https://mvnrepository.com/artifact/org.apache.commons/commons-collections4/4.4] |
-| [Apache Log4j Core][https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core] | (log4j-core-2.20.0.jar)[https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.jar] |
-| [Apache Log4j API][https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api] | (log4j-api-2.20.0.jar)[https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0.jar] |
-| [Apache Commons Compress][https://mvnrepository.com/artifact/org.apache.commons/commons-compress] | (commons-compress-1.23.0.jar)[https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.23.0/commons-compress-1.23.0.jar] |
-| [Apache POI][https://mvnrepository.com/artifact/org.apache.poi/poi] | (poi-5.2.3.jar)[https://repo1.maven.org/maven2/org/apache/poi/poi/5.2.3/poi-5.2.3.jar] |
-| [Apache POI OOXML Schemas (full)][https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml-full] | (poi-ooxml-full-5.2.3.jar)[https://repo1.maven.org/maven2/org/apache/poi/poi-ooxml-full/5.2.3/poi-ooxml-full-5.2.3.jar] |
-| [Zip4j][https://mvnrepository.com/artifact/net.lingala.zip4j/zip4j] | (zip4j-2.11.5.jar)[https://repo1.maven.org/maven2/net/lingala/zip4j/zip4j/2.11.5/zip4j-2.11.5.jar] |
-| [Jackson Core][https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core/] | (jackson-core-2.15.2.jar)[https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.15.2/jackson-core-2.15.2.jar] |
-| [XmlBeans][https://mvnrepository.com/artifact/org.apache.xmlbeans/xmlbeans] | (xmlbeans-5.1.1.jar)[https://mvnrepository.com/artifact/org.apache.xmlbeans/xmlbeans/5.1.1] |
+| [Apache Commons Collections](https://mvnrepository.com/artifact/org.apache.commons/commons-collections4) | [commons-collections4-4.4.jar](https://mvnrepository.com/artifact/org.apache.commons/commons-collections4/4.4) |
+| [Apache Log4j Core](https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core) | [log4j-core-2.20.0.jar](https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.jar) |
+| [Apache Log4j API][https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api] | [log4j-api-2.20.0.jar](https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0.jar) |
+| [Apache Commons Compress](https://mvnrepository.com/artifact/org.apache.commons/commons-compress) | [commons-compress-1.23.0.jar](https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.23.0/commons-compress-1.23.0.jar) |
+| [Apache POI](https://mvnrepository.com/artifact/org.apache.poi/poi) | [poi-5.2.3.jar](https://repo1.maven.org/maven2/org/apache/poi/poi/5.2.3/poi-5.2.3.jar) |
+| [Apache POI OOXML Schemas (full)](https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml-full) | [poi-ooxml-full-5.2.3.jar](https://repo1.maven.org/maven2/org/apache/poi/poi-ooxml-full/5.2.3/poi-ooxml-full-5.2.3.jar) |
+| [Zip4j](https://mvnrepository.com/artifact/net.lingala.zip4j/zip4j) | [zip4j-2.11.5.jar](https://repo1.maven.org/maven2/net/lingala/zip4j/zip4j/2.11.5/zip4j-2.11.5.jar) |
+| [Jackson Core](https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core/) | [jackson-core-2.15.2.jar)](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.15.2/jackson-core-2.15.2.jar) |
+| [XmlBeans](https://mvnrepository.com/artifact/org.apache.xmlbeans/xmlbeans) | [xmlbeans-5.1.1.jar](https://mvnrepository.com/artifact/org.apache.xmlbeans/xmlbeans/5.1.1) |
 
 #### Command Line Arguments Input Configuration
 - Copy the CreateSalesforceCmsInput.java code to the src folder.
