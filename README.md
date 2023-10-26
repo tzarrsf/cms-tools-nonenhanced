@@ -1,6 +1,6 @@
 ## cms-tools-nonenhanced
 
-This project contains Apex and JAVA code relevant to Salesforce Commerce CMS functionality. Special thanks to Kevin Kintzley fo contributing this solution as part og the Code It Forward effort!
+This project contains Apex and JAVA code relevant to Salesforce Commerce CMS functionality. Special thanks to Kevin Kintzley for contributing this solution as part of the Code-It-Forward effort!
 
 # CMS Tools QuickStart
 
